@@ -1,6 +1,8 @@
 
 # 🧑‍🏫 NLP Workshop: IR Inverted Matrix
 
+Developed by: David Espinosa, September 2025
+
 This repository contains the **Natural Language Processing Workshop** with:
 - Active learning notebook (`IR_InvertedMatrix_Workshop.ipynb`)
 - Automated submission script (`submit_assignment.py`)
